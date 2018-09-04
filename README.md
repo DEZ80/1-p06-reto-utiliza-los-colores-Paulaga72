@@ -32,4 +32,4 @@ Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/PIXEL ROJO.png)
 ![Actividad 2](/PIXEL CIAN.png)
 ![Actividad 3](/PIXEL AMARILLO.png)
-![Actividad 4](/PIXEL AZUL(FONDO).png)
+![Actividad 4](/PIXEL AZUL FONDO.png)
